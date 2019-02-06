@@ -1,3 +1,6 @@
+### POINTS: 1.5
+### Didn't detect CAT and let me clip even after game over, but still good job!
+
 # Frontend Review CT complete CW
 
 ### Exercise 1:
